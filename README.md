@@ -2,8 +2,7 @@
 
 This document extends [The The Ultimate Endo Farm Guide](https://docs.google.com/document/d/13y8HIYBsi1WiY0JfO6mSLHENbd34LKn3iz9RwsVikw0/), and will mention what change is needed for this ripkas strat.  
 
-[Why run this strat?](#why-run-this-strat)  
-[]
+[Why run this strat?](#why-run-this-strat)
 
 Roles:
 - [Nidus](#nidus)
